@@ -1,6 +1,6 @@
 # 🌳 ForestEyes Project
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https:/forest-eyes.vercel.app)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https:/foresteyes-project.vercel.app)
 [![FAPESP](https://img.shields.io/badge/FAPESP-2023%2F00782--0-blue.svg)](https://bv.fapesp.br/pt/auxilios/114358/projeto-foresteyes-cidadaos-monitorando-desmatamento-em-florestas/)
 [![Zooniverse](https://img.shields.io/badge/Citizen_Science-Zooniverse-orange.svg)](https://www.zooniverse.org/projects/dallaqua/foresteyes/)
 
